@@ -1,19 +1,9 @@
 <!-- Abel GitHub Profile -->
 <div align="center">
-  <script>
-    // Detectar el modo de color del sistema operativo
-    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-      // Modo oscuro, aplica estilos claros
-      document.write('<style>body { color: #FFFFFF; background-color: #000000; }</style>');
-    } else {
-      // Modo claro, aplica estilos oscuros
-      document.write('<style>body { color: #000000; background-color: #FFFFFF; }</style>');
-    }
-  </script>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Iosevka&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abel+Carrizo;A+Software+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Iosevka&pause=1000&color=C2C2C2&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abel+Carrizo;A+Software+Engineering+Student)](https://git.io/typing-svg)
+
 </div>
-
 
 <!-- Skills -->
 <details>
