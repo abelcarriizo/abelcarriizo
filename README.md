@@ -9,6 +9,8 @@
 <details>
 <summary><samp><b>More Info</b></samp></summary>
 
+<h2>Skills</h2>
+
 <h3 align="left">Programming and Markup Languages</h3>
 <p align="left">
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
