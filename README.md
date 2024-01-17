@@ -1,16 +1,18 @@
 <!-- Abel GitHub Profile -->
-<div align="center">
+<div>
 
 ### <span style="font-family: 'Iosevka', monospace;">Hi, Friend!!</span>
 
 </div>
+
+***
 
 ```json
 {
     "profile": {
         "name": "Abel Carrizo",
         "username": "abelcarriizo",
-        "learning": "Java", // Currently learning Java
+        "learning": "Java",
         "lang": ["es"],
         "tools": [".py", ".js", ".sql", ".mongodb", ".angular"],
         "os": ["Arch Linux", "Ubuntu"]
