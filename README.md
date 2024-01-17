@@ -11,18 +11,8 @@
         "name": "Abel Carrizo",
         "username": "abelcarriizo",
         "learning": "java",
-        "tools": [
-            "python/py", 
-            "javascript/js",
-            "angular/angular",
-            "markdown/md",
-            "sql/sql",
-            "mongodb/mongodb"
-        ],
-        "os": [ 
-            "Arch Linux", 
-            "Ubuntu"
-        ]
+        "tools": ["python/py", "javascript/js", "angular/angular", "markdown/md", "sql/sql", "mongodb/mongodb"],
+        "os": ["Arch Linux", "Ubuntu"]
     }
 }
 ```
