@@ -7,11 +7,12 @@
 
 ```json
 {
-    "perfil": {
+    "profile": {
         "name": "Abel Carrizo",
         "username": "abelcarriizo",
-        "learning": "java",
-        "tools": ["python/py", "javascript/js", "angular/angular", "markdown/md", "sql/sql", "mongodb/mongodb"],
+        "learning": "Java", // Currently learning Java
+        "lang": ["es"],
+        "tools": [".py", ".js", ".sql", ".mongodb", ".angular"],
         "os": ["Arch Linux", "Ubuntu"]
     }
 }
