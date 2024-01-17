@@ -6,15 +6,20 @@
 
 </div>
 
-```json
-{
-    "profile": {
-        "name": "Abel Carrizo",
-        "username": "abelcarriizo",
-        "learning": "Java",
-        "lang": ["es"],
-        "tools": [".py", ".js", ".sql", ".mongodb", ".angular"],
-        "os": ["Arch Linux", "Ubuntu"]
-    }
+```python
+# profile.py
+
+profile = {
+    "name": "Abel Carrizo",
+    "username": "abelcarriizo",
+    "learning": "Java",
+    "lang": ["es"],
+    "tools": [".py", ".js", ".sql", ".mongodb", ".angular"],
+    "os": ["Arch Linux", "Ubuntu"]
 }
-```  
+
+# Print profile information
+for key, value in profile.items():
+    print(f"{key.capitalize()}: {value}")
+
+```
