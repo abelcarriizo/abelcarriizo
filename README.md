@@ -25,6 +25,6 @@ for key, value in profile.items():
 ```
 <div align=center>
 
-[![](https://visitcount.itsvg.in/api?id=abelcarriizo&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abelcarriizo&label=Profile%20Views&color=9&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
