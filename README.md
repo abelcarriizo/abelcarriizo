@@ -23,3 +23,8 @@ for key, value in profile.items():
     print(f"{key.capitalize()}: {value}")
 
 ```
+<div align=center>
+
+[![](https://visitcount.itsvg.in/api?id=abelcarriizo&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+</div>
