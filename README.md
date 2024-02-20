@@ -26,10 +26,10 @@ for key, value in profile.items():
 
 <div align=center>
 
-<!--[![](https://visitcount.itsvg.in/api?id=abelcarriizo&label=Profile%20Views&color=9&icon=0&pretty=true)](https://visitcount.itsvg.in)-->
-
+[![](https://visitcount.itsvg.in/api?id=abelcarriizo&label=Profile%20Views&color=9&icon=0&pretty=true)](https://visitcount.itsvg.in)
+<!--
 <a href="https://github.com/abelcarriizo">
   <img src="https://img.shields.io/endpoint?label=profile%20views&style=social&url=https%3A%2F%2Fhits.dwyl.com%2Fabelcarriizo%2Fabelcarriizo.json" alt="calculation based on page hits, not 100% accurate." />
 </a>
-
+-->
 </div>
